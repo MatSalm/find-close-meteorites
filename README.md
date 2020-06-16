@@ -7,3 +7,11 @@ A demo project to tell how close meteors land to my coordinates using NASA data.
 thia project required Python 3 and the requests package
 
 'python3 find_meteors.py'
+
+First Install pipenv, then:
+
+...
+pipenv install
+pipenv run "python find-close-meteorites.py"
+...
+
